@@ -4,6 +4,10 @@
   font-family: 'Arial', sans-serif;}
 
 .moveherassinthemiddle {
-  display: flex;}
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
 
 <--! Girlfriend wanted her ass to be in the center, wtf why dis so hard-->
