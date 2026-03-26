@@ -29,7 +29,7 @@ background-color: #e1eef2;
  height: 50px;
  border: solid;
  padding: 23px;
- position: absolute;
+ position: static;
  top: 2;
  left: 4;
 }
