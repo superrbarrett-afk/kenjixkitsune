@@ -25,9 +25,10 @@ background-color: #e1eef2;
 }
 
 .containerz {
- width: 100px;
- height: 80px;
+ width: 500px;
+ height: 50px;
  border: solid;
+ padding: 23px;
  position: absolute;
  top: 2;
  left: 4;
