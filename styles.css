@@ -7,21 +7,12 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-down: 20px;
   
 }
 
 html {
 background-color: #e1eef2;
-}
-
-.boobstest {
-  width: 100;
-  height: 100;
-  border: 5px solid red;
-  padding: 10px
-  margin: 20px auto;
-
-  background-color: grey;
 }
 
 .containerz {
