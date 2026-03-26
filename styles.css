@@ -19,9 +19,7 @@ background-color: #e1eef2;
  height: 50px;
  border: solid;
  padding: 23px;
- position: absolute;
-  top:20px;
-  left:10px;
+ position: static;
 }
 
 <--! Girlfriend wanted her ass to be in the center, wtf why dis so hard-->
